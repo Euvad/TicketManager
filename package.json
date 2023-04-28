@@ -1,5 +1,5 @@
 {
-  "name": "supportmanager",
+  "name": "discordbot",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
     "fs": "^0.0.1-security"
   }
 }
