@@ -12,4 +12,4 @@ loadCommands(bot);
 loadEvents(bot);
   setInterval(() => {
     loadClear(bot);
-  }, 24 * 60 * 60 * 1000);
+  }, 7200000);
